@@ -62,7 +62,7 @@ public class MansionEmbrujada_v0 {
                 passos--;
                 System.out.println("Un fantasma t'espanta! Et queden " + passos + " passos.");
             } else {
-                System.out.println("S'han aabat els passos... La mansió t'atrapa per sempre!");
+                System.out.println("S'han acabat els passos... La mansió t'atrapa per sempre!");
             }
         }
 
